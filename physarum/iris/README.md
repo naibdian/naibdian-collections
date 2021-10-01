@@ -1,8 +1,14 @@
+![iris_full](https://user-images.githubusercontent.com/91549230/135595760-15185970-d97e-43dc-8786-d754c128095e.png)
+
 ## NaibdiaN Iris Collection
+
+[Naibdian Iris on Opensea](https://opensea.io/collection/naibdian-iris-l2)
 
 Iris is 1st collection out of my biomorphic studies based on dynamic large particle systems. You're not acquiring just a static image but a realtime simulation of an evolving microbiome. You can replay/start/stop same evolution (by left click or space touch).
 
-Iris is inspired by Physarum mold transport and named after eyes' iris. The microbiome consists in a small population of 16K organisms spread in a circle on a 2K (1920x1080) sized field. Physarum mold transport systems were inspired by Sage Jenson's post https://sagejenson.com/physarum and Jeff Jones's paper, _“Characteristics of pattern formation and evolution in approximations of Physarum transport networks.”_. Then, the idea is to explore possible microbiomes and find the most beautiful or peculiar ones evolving very fastly or very slowly through remarkable transitions and to very stable or unstable final state.
+![Clock to see a video of one the microbiome evolution found in NFT collection](https://user-images.githubusercontent.com/91549230/135596123-dadf0e63-da98-40eb-9b84-8be120850548.mp4)
+
+Iris is inspired by Physarum mold transport and named after eyes' iris. Iris microbiome consists in a small population of 16K organisms spread in a circle on a 2K (1920x1080) sized field. I chose Physarum mold transport because I like Sage Jenson's post https://sagejenson.com/physarum and Jeff Jones's paper, _“Characteristics of pattern formation and evolution in approximations of Physarum transport networks.”_. (And also for the joke mold -> fungi -> fungible -> NFT 👏). Then, the idea is to explore possible microbiomes and find the most beautiful or peculiar ones evolving very fastly or very slowly through remarkable transitions and to very stable or unstable final state.
 
 ### Technical details 
 
@@ -31,6 +37,7 @@ These NFT are 100% independent of any NFT/Blockchain platform and autonomous. Th
 
 
 ### Future collections
+
 
 We'll release soon new cool graphical unique collections based on the same concepts but exploring other microbiomes with peculiar or beautiful emerging behaviors, transitions or final state.
 
