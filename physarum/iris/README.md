@@ -6,7 +6,7 @@
 
 Iris is 1st collection out of my biomorphic studies based on dynamic large particle systems. You're not acquiring just a static image but a realtime simulation of an evolving microbiome. You can replay/start/stop same evolution (by left click or space touch).
 
-![Clock to see a video of one the microbiome evolution found in NFT collection](https://user-images.githubusercontent.com/91549230/135596123-dadf0e63-da98-40eb-9b84-8be120850548.mp4)
+![Click to see a video of one the microbiome evolution found in NFT collection](https://user-images.githubusercontent.com/91549230/135596123-dadf0e63-da98-40eb-9b84-8be120850548.mp4)
 
 Iris is inspired by Physarum mold transport and named after eyes' iris. Iris microbiome consists in a small population of 16K organisms spread in a circle on a 2K (1920x1080) sized field. I chose Physarum mold transport because I like Sage Jenson's post https://sagejenson.com/physarum and Jeff Jones's paper, _“Characteristics of pattern formation and evolution in approximations of Physarum transport networks.”_. (And also for the joke mold -> fungi -> fungible -> NFT 👏). Then, the idea is to explore possible microbiomes and find the most beautiful or peculiar ones evolving very fastly or very slowly through remarkable transitions and to very stable or unstable final state.
 
