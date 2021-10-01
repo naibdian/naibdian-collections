@@ -12,10 +12,12 @@ Iris is inspired by Physarum mold transport and named after eyes' iris. Iris mic
 
 You'll remark that the first explosion phase evolves towards a stable canvas of flat colors with hexagonal or pentagonal black holes. If you look carefully, you'll see that everything moves on this canvas. It stays stable because the organisms keep moving on it and keep it "fresh". This is a stable state that you can observe with mold in nature and it's here that you'll see the link between those visuals and real-life.
 
+I chose very highlighted colors and sluggish particle trails to super-expose the explosion despite the aliased effects on full screen and I also wanted to obtain a kind of pop-art reminder, low-resolution animation on the final state.
+
 ### Technical details 
 
 #### Running Environment
-- Better run on PC/Mac with medium GPU. You can run on small window up to full screen on 2K screen (1920x1080, 1 pixel = 1 particle position). Higher resolution will run with black borders around. For first iteration, I chose a relatively small microbiome on standard 2K screen. The aliased aspect of particles spread on full-screen is due to the relatively small number of particles (16K only) that let you see particles spread but also my color coarse spread choice that focused on super-exposition to make it look like an explosion.
+- Better run on PC/Mac with medium GPU. You can run on small window up to full screen on 2K screen (1920x1080, 1 pixel = 1 particle position). Higher resolution will run with black borders around. For first iteration, I chose a relatively small microbiome on standard 2K screen. 
 - On some computers with not powerful GPU, it could lag (specially when the number of particles will increase later) but rendering is correct.
 - On mobile, rendering is wrong (see Disclaimer below) and a video alternative is proposed but you can click on the link under the video to try full feature system on your mobile (see warning above)
 
