@@ -10,6 +10,8 @@ Iris is 1st collection out of my biomorphic studies based on dynamic large parti
 
 Iris is inspired by Physarum mold transport and named after eyes' iris. Iris microbiome consists in a small population of 16K organisms spread in a circle on a 2K (1920x1080) sized field. I chose Physarum mold transport because I like Sage Jenson's post https://sagejenson.com/physarum and Jeff Jones's paper, _“Characteristics of pattern formation and evolution in approximations of Physarum transport networks.”_. (And also for the joke mold -> fungi -> fungible -> NFT 👏). Then, the idea is to explore possible microbiomes and find the most beautiful or peculiar ones evolving very fastly or very slowly through remarkable transitions and to very stable or unstable final state.
 
+You'll remark that the first explosion phase evolves towards a stable canvas of flat colors with hexagonal or pentagonal black holes. If you look carefully, you'll see that everything moves on this canvas. It stays stable because the organisms keep moving on it and keep it "fresh". This is a stable state that you can observe with mold in nature and it's here that you'll see the link between those visuals and real-life.
+
 ### Technical details 
 
 #### Running Environment
