@@ -45,5 +45,6 @@ We'll also release much more complex particles systems (hundreds of thousands of
 
 If you like these concepts/visuals, have issues, special request, don't hesitate to contact on twitter [@naibdian](https://twitter.com/naibdian).
 
-Thanks
+Enjoy yourself while it evolves!
+
 NaibdiaN
