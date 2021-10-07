@@ -11,7 +11,7 @@ Furry is 3rd collection based on biomorphic dynamic large particle systems. Ever
 
 
 
-Furry focuses on creating very colorful animations based on the most basic RGB colors to obtain evocative animations.
+Furry focuses on creating very colorful animations based on the most basic HSV colors spread always in the same way on a circle to obtain very different evocative visuals.
 
 It is inspired by Physarum mold transport with same spreading of particles as [Iris collection](https://opensea.io/collection/naibdian-iris-l2) and [Vortex collection](https://opensea.io/collection/naibdian-vortex).
 
