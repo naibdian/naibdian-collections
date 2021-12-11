@@ -1,7 +1,5 @@
 # Naibdian Pixel.AI Generator
 
-Pixel.AI
-
 Don't stop at basic snapshot, Pixel.AI is a unique artistic and scientific experiment combining generative art in NFT with live training AI.
 
 WARNING: 
